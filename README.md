@@ -1,25 +1,25 @@
 <h1>Hi 👋 My name is Rose</h1> 
 
   <ul>
-    <li>🌍  I'm based in Rhode Island</li>
-    <li>🚀  I'm currently working on productivity app called <a href='https://rnedder.github.io/todo-app/'><b>todo-app</b></a></li>
-    <li>🎴  Check out my collaborative project: <a href="https://mtg-random-commander.web.app"><b>MTGRandomizer</b></a> - A <i>Magic: The Gathering</i> Commander Generator!</li>
-    <li>🧠  I completed a Full-Stack Engineering Boot Camp at <a href="https://www.nucamp.co/"><b>Nucamp</b></li>
-    <li>🎓  I am currently working on my Bachelor's in Computer Science at <a href="https://www.wgu.edu/"><b>WGU</b></li>
-    <li>⚡  My favorite languages to code in are <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/javascript/javascript-original.svg" height="20" alt="javascript logo" /><b>JavaScript</b> and <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" height="20" alt="python logo"  /><b>Python</b></li>
+    <li>🌍 I'm based in Rhode Island</li>
+    <li>🚀 I'm currently working on productivity app called <a href='https://rnedder.github.io/todo-app/'><b>todo-app</b></a></li>
+    <li>🎴 Check out my collaborative project: <a href="https://mtg-random-commander.web.app"><b>MTGRandomizer</b></a> - A <i>Magic: The Gathering</i> Commander Generator!</li>
+    <li>🧠 I completed my Full-Stack Engineering Boot Camp at <a href="https://www.nucamp.co/"><b>Nucamp</b></li>
+    <li>🎓 I am currently working on my Bachelor's in Computer Science at <a href="https://www.wgu.edu/"><b>WGU</b></li>
+    <li>⚡ My favorite languages to code in are <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/javascript/javascript-original.svg" height="20" alt="javascript logo" /><b>JavaScript</b> and <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" height="20" alt="python logo"  /><b>Python</b></li>
   </ul>
 
 <div align="left">
   <hr>
   <h3>Top Repositories</h3> 
   <a href="https://github.com/rsternik/todo-app" align="left" >
-    <img src="https://github-readme-stats.vercel.app/api/pin/?username=rsternik&repo=todo-app&title_color=ec4899&text_color=000000&icon_color=0891b2&bg_color=ffffff&hide_border=true&locale=en" />
+    <img src="https://github-readme-stats.vercel.app/api/pin/?username=rsternik&repo=todo-app&title_color=ffc22e&text_color=ffc22e&icon_color=ffc22e&bg_color=110d03&hide_border=true&locale=en" />
   </a>
   <a href="https://github.com/rsternik/MTGRandomizer" align="left">
-    <img src="https://github-readme-stats.vercel.app/api/pin/?username=rsternik&repo=MTGRandomizer&title_color=ec4899&text_color=000000&icon_color=0891b2&bg_color=ffffff&hide_border=true&locale=en" />
+    <img src="https://github-readme-stats.vercel.app/api/pin/?username=rsternik&repo=MTGRandomizer&title_color=ffc22e&text_color=ffc22e&icon_color=ffc22e&bg_color=110d03&hide_border=true&locale=en" />
   </a>
   <a href="https://github.com/rsternik/weather-app" align="left">
-    <img src="https://github-readme-stats.vercel.app/api/pin/?username=rsternik&repo=weather-app&title_color=ec4899&text_color=000000&icon_color=0891b2&bg_color=ffffff&hide_border=true&locale=en" />
+    <img src="https://github-readme-stats.vercel.app/api/pin/?username=rsternik&repo=weather-app&title_color=ffc22e&text_color=ffc22e&icon_color=ffc22e&bg_color=110d03&hide_border=true&locale=en" />
   </a>
 
 
@@ -60,10 +60,8 @@
 <div align="left">
   <hr>
   <h3>My Github Stats</h3>
-    <a href="http://www.github.com/rsternik"><img src="https://github-readme-stats.vercel.app/api?username=rsternik&show_icons=true&hide=&count_private=true&title_color=ec4899&text_color=000000&icon_color=0891b2&bg_color=ffffff&hide_border=true&show_icons=true" alt="rsternik's GitHub stats" /></a>
-    <a href="http://www.github.com/rsternik"><img src="https://github-readme-streak-stats.herokuapp.com/?user=rsternik&stroke=000000&background=ffffff&ring=ec4899&fire=ec4899&currStreakNum=000000&currStreakLabel=ec4899&sideNums=000000&sideLabels=000000&dates=000000&hide_border=true" /></a>
-  <a href="https://www.github.com/rsternik"><img src="https://github-readme-activity-graph.vercel.app/graph?username=rsternik" /></a>
-</div>
+    <a href="http://www.github.com/rsternik"><img src="https://github-readme-stats.vercel.app/api?username=rsternik&show_icons=true&hide=false&count_private=true&title_color=ffc22e&text_color=ffc22e&icon_color=ff4f11&bg_color=110d03&hide_border=true&show_icons=true" alt="rsternik's GitHub stats" /></a>
+    <a href="http://www.github.com/rsternik"><img src="https://github-readme-streak-stats.herokuapp.com/?user=rsternik&stroke=ffc22e&background=110d03&ring=ff4f11&fire=ff4f11&currStreakNum=ffc22e&currStreakLabel=ffc22e&sideNums=ffc22e&sideLabels=ffc22e&dates=ffc22e&hide_border=true" /></a>
     
 <div align="left">
   <hr>
