@@ -2,7 +2,7 @@
 
   <ul>
     <li>🌍 I'm based in Rhode Island</li>
-    <li>🚀 I'm currently working on productivity app called <a href='https://rnedder.github.io/todo-app/'><b>todo-app</b></a></li>
+    <li>🚀 I'm currently working on productivity app called <a href='https://rsternik.github.io/todo-app/'><b>todo-app</b></a></li>
     <li>🎴 Check out my collaborative project: <a href="https://mtg-random-commander.web.app"><b>MTGRandomizer</b></a> - A <i>Magic: The Gathering</i> Commander Generator!</li>
     <li>🧠 I completed my Full-Stack Engineering Boot Camp at <a href="https://www.nucamp.co/"><b>Nucamp</b></li>
     <li>🎓 I am currently working on my Bachelor's in Computer Science at <a href="https://www.wgu.edu/"><b>WGU</b></li>
